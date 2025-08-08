@@ -1,1 +1,1 @@
-## 💯 100+ Resources to become a great software engineers
+## 💯 100+ Resources to become a great python developers
